@@ -1,4 +1,7 @@
 # Analysis of NCT members from the comment sections of their Welcome to Sun&Moon YouTube series
+
+For information about my project including research questions, summary, methodology, results, and testing please see my Report.pdf.
+
 # Instructions for Reproduction
 
 <font size="5">By: Anna Batra</font> 
