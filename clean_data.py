@@ -1,8 +1,4 @@
 """
-Anna Batra
-CSE 163 AC
-Final Project
-
 This module cleans up the data provided by the get_data module, and gets
 it ready for use in the analyze_data module. The cleaned data is saved
 in the directory data under the name clean_ep_#, where # is the episode

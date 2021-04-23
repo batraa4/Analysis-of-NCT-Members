@@ -1,15 +1,10 @@
 """
-Anna Batra
-CSE 163 AC
-Final Project
-
 This module uses a bit of the python code provided by the YouTube API, as well
 as a created developer key, to scrape comment data from the NCT youtube series
 "Sun&Moon". All the data is saved in csv format, per episode (1-10). For ease
 of accessing data, I will provide a directory called data which will store
 all the csv files, and turn that in with my project. The data for those files
 are as of 3/09/2021.
-
 """
 import os
 import googleapiclient.discovery

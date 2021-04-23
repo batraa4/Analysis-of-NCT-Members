@@ -1,8 +1,4 @@
 """
-Anna Batra
-CSE 163 AC
-Final Project
-
 This module uses the data provided by the clean_data module. Using this data,
 this module makes analyzations specific to the comment section of the Sun&Moon
 series on the NCT youtube channel. Speficially, this module provides:
